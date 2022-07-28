@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Montserrat";
+    line-height: 1.5;
+}
+/*************** Intro-page Section *****************/
+.intro-page{    
+    padding: 3% 1%;
+    text-align: center;
+    background-color: #DBBEA1FF;
+}
+.heading-1{
+    font-weight: 900;
+}
+.heading-4{
+    font-weight: 300;
+    padding-bottom: 30px;
+}
+
+/*************** Main-page Section *****************/
+.main-page{
+    background-color: #A37B73FF;
+    padding: 7% 15%;
+    color: aliceblue;
+    border-radius: 15px;
+}
+.col-1{
+    position: relative;
+    right: 13%;
+}
+.main-content{
+    font-family: "BIZ UDMincho";
+    font-weight: 500    ;
+    text-align: left;
+    font-size: 1.75rem;
+    margin: 55px 17px;
+}
+.image{
+    margin-bottom: 15px;
+}
+.img-content{
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+
+/*************** Biography-page Section *****************/
+
+.ul {
+    list-style-type: none;
+}
+
+.unstyle-list{
+    margin: 2% 12%;
+}
+
+.list-item{
+    font-size: 1.15rem;
+    font-weight: 300;
+    text-align: justify;
+    line-height: 1.5;
+}
